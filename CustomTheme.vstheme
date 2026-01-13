@@ -341,23 +341,23 @@
       </Color>
       <Color Name="OverviewMarginCaret">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF264F78" />
+        <Foreground Type="CT_RAW" Source="FF484060" />
       </Color>
       <Color Name="OverviewMarginScrollButtonsMouseDown">
         <Background Type="CT_RAW" Source="FF222222" />
-        <Foreground Type="CT_RAW" Source="09F7F1FF" />
+        <Foreground Type="CT_RAW" Source="FFF7F1FF" />
       </Color>
       <Color Name="OverviewMarginVisible">
-        <Background Type="CT_RAW" Source="FF292929" />
-        <Foreground Type="CT_RAW" Source="FF292929" />
+        <Background Type="CT_RAW" Source="FF191919" />
+        <Foreground Type="CT_RAW" Source="FF363537" />
       </Color>
       <Color Name="OverviewMarginScrollButtons">
         <Background Type="CT_RAW" Source="FF222222" />
-        <Foreground Type="CT_RAW" Source="FF292929" />
+        <Foreground Type="CT_RAW" Source="FF8B888F" />
       </Color>
       <Color Name="OverviewMarginScrollButtonsMouseOver">
         <Background Type="CT_RAW" Source="FF222222" />
-        <Foreground Type="CT_RAW" Source="09F7F1FF" />
+        <Foreground Type="CT_RAW" Source="FFF7F1FF" />
       </Color>
       <Color Name="OverviewMarginBackground">
         <Background Type="CT_RAW" Source="FF222222" />
@@ -2533,10 +2533,10 @@
         <Background Type="CT_RAW" Source="FF191919" />
       </Color>
       <Color Name="DocWellOverflowButtonMouseDownBackground">
-        <Background Type="CT_RAW" Source="FF222222" />
+        <Background Type="CT_RAW" Source="FF363537" />
       </Color>
       <Color Name="DocWellOverflowButtonMouseDownBorder">
-        <Background Type="CT_RAW" Source="FF222222" />
+        <Background Type="CT_RAW" Source="FF363537" />
       </Color>
       <Color Name="FileTabButtonDownInactive">
         <Background Type="CT_RAW" Source="FF191919" />
@@ -2563,7 +2563,10 @@
         <Background Type="CT_RAW" Source="FF191919" />
       </Color>
       <Color Name="ToolWindowButtonDown">
-        <Background Type="CT_RAW" Source="FF191919" />
+        <Background Type="CT_RAW" Source="FF363537" />
+      </Color>
+      <Color Name="ToolWindowButtonDownBorder">
+        <Background Type="CT_RAW" Source="FF363537" />
       </Color>
       <Color Name="DocWellOverflowButtonMouseDownGlyph">
         <Background Type="CT_RAW" Source="FFF7F1FF" />
@@ -2605,10 +2608,10 @@
         <Background Type="CT_RAW" Source="FF8B888F" />
       </Color>
       <Color Name="MainWindowButtonDownGlyph">
-        <Background Type="CT_RAW" Source="FF8B888F" />
+        <Background Type="CT_RAW" Source="FFF7F1FF" />
       </Color>
       <Color Name="MainWindowButtonHoverActiveGlyph">
-        <Background Type="CT_RAW" Source="FF8B888F" />
+        <Background Type="CT_RAW" Source="FFF7F1FF" />
       </Color>
       <Color Name="QuickCustomizeButtonGlyphHover">
         <Background Type="CT_RAW" Source="FF8B888F" />
@@ -2617,31 +2620,31 @@
         <Background Type="CT_RAW" Source="FF8B888F" />
       </Color>
       <Color Name="ScrollBarArrowGlyphMouseOver">
-        <Background Type="CT_RAW" Source="FF8B888F" />
+        <Background Type="CT_RAW" Source="FFF7F1FF" />
       </Color>
       <Color Name="ScrollBarArrowGlyphPressed">
-        <Background Type="CT_RAW" Source="FF8B888F" />
+        <Background Type="CT_RAW" Source="FFF7F1FF" />
       </Color>
       <Color Name="StartPageButtonTextHover">
         <Background Type="CT_RAW" Source="FF8B888F" />
       </Color>
       <Color Name="ToolWindowButtonDownActiveGlyph">
-        <Background Type="CT_RAW" Source="FF8B888F" />
+        <Background Type="CT_RAW" Source="FFF7F1FF" />
       </Color>
       <Color Name="ToolWindowButtonDownInactiveGlyph">
-        <Background Type="CT_RAW" Source="FF8B888F" />
+        <Background Type="CT_RAW" Source="FFF7F1FF" />
       </Color>
       <Color Name="ToolWindowButtonHoverActiveGlyph">
-        <Background Type="CT_RAW" Source="FF8B888F" />
+        <Background Type="CT_RAW" Source="FFF7F1FF" />
       </Color>
       <Color Name="ToolWindowButtonHoverInactiveGlyph">
-        <Background Type="CT_RAW" Source="FF8B888F" />
+        <Background Type="CT_RAW" Source="FFF7F1FF" />
       </Color>
       <Color Name="DocWellOverflowButtonMouseOverBackground">
-        <Background Type="CT_RAW" Source="FF222222" />
+        <Background Type="CT_RAW" Source="FF2B2B2B" />
       </Color>
       <Color Name="DocWellOverflowButtonMouseOverBorder">
-        <Background Type="CT_RAW" Source="FF222222" />
+        <Background Type="CT_RAW" Source="FF2B2B2B" />
       </Color>
       <Color Name="FileTabButtonHoverInactive">
         <Background Type="CT_RAW" Source="FF222222" />
@@ -2680,10 +2683,10 @@
         <Background Type="CT_RAW" Source="FF222222" />
       </Color>
       <Color Name="MainWindowButtonDown">
-        <Background Type="CT_RAW" Source="FF222222" />
+        <Background Type="CT_RAW" Source="FF363537" />
       </Color>
       <Color Name="MainWindowButtonHoverActive">
-        <Background Type="CT_RAW" Source="FF222222" />
+        <Background Type="CT_RAW" Source="FF2B2B2B" />
       </Color>
       <Color Name="ScrollBarArrowMouseOverBackground">
         <Background Type="CT_RAW" Source="FF222222" />
@@ -2707,22 +2710,22 @@
         <Background Type="CT_RAW" Source="FF222222" />
       </Color>
       <Color Name="ToolWindowButtonHoverActive">
-        <Background Type="CT_RAW" Source="FF222222" />
+        <Background Type="CT_RAW" Source="FF2B2B2B" />
       </Color>
       <Color Name="ToolWindowButtonHoverActiveBorder">
-        <Background Type="CT_RAW" Source="FF222222" />
+        <Background Type="CT_RAW" Source="FF2B2B2B" />
       </Color>
       <Color Name="ToolWindowButtonHoverInactive">
-        <Background Type="CT_RAW" Source="FF222222" />
+        <Background Type="CT_RAW" Source="FF2B2B2B" />
       </Color>
       <Color Name="ToolWindowButtonHoverInactiveBorder">
-        <Background Type="CT_RAW" Source="FF222222" />
+        <Background Type="CT_RAW" Source="FF2B2B2B" />
       </Color>
       <Color Name="MainWindowButtonHoverInactiveGlyph">
-        <Background Type="CT_RAW" Source="FF8B888F" />
+        <Background Type="CT_RAW" Source="FFF7F1FF" />
       </Color>
       <Color Name="MainWindowButtonHoverInactive">
-        <Background Type="CT_RAW" Source="FF222222" />
+        <Background Type="CT_RAW" Source="FF2B2B2B" />
       </Color>
       <Color Name="ComboBoxBackground">
         <Background Type="CT_RAW" Source="FF222222" />
@@ -3138,16 +3141,16 @@
         <Background Type="CT_RAW" Source="FF8B888F" />
       </Color>
       <Color Name="ScrollBarThumbBorder">
-        <Background Type="CT_RAW" Source="FF222222" />
+        <Background Type="CT_RAW" Source="FF313031" />
       </Color>
       <Color Name="ScrollBarThumbGlyphPressedBorder">
-        <Background Type="CT_RAW" Source="12F7F1FF" />
+        <Background Type="CT_RAW" Source="FF6C6A6F" />
       </Color>
       <Color Name="ScrollBarThumbPressedBorder">
-        <Background Type="CT_RAW" Source="12F7F1FF" />
+        <Background Type="CT_RAW" Source="FF6C6A6F" />
       </Color>
       <Color Name="ScrollBarThumbPressedBackground">
-        <Background Type="CT_RAW" Source="12F7F1FF" />
+        <Background Type="CT_RAW" Source="FF6C6A6F" />
       </Color>
       <Color Name="AutoHideResizeGrip">
         <Background Type="CT_RAW" Source="FF313031" />
@@ -3168,16 +3171,16 @@
         <Background Type="CT_RAW" Source="FF313031" />
       </Color>
       <Color Name="ScrollBarArrowGlyph">
-        <Background Type="CT_RAW" Source="FF313031" />
+        <Background Type="CT_RAW" Source="FF8B888F" />
       </Color>
       <Color Name="ScrollBarThumbGlyphMouseOverBorder">
-        <Background Type="CT_RAW" Source="FF313031" />
+        <Background Type="CT_RAW" Source="FF424143" />
       </Color>
       <Color Name="ScrollBarThumbMouseOverBackground">
-        <Background Type="CT_RAW" Source="FF313031" />
+        <Background Type="CT_RAW" Source="FF424143" />
       </Color>
       <Color Name="ScrollBarThumbMouseOverBorder">
-        <Background Type="CT_RAW" Source="FF313031" />
+        <Background Type="CT_RAW" Source="FF424143" />
       </Color>
       <Color Name="ComboBoxSelection">
         <Background Type="CT_RAW" Source="26BAB6C0" />
@@ -3213,16 +3216,16 @@
         <Background Type="CT_RAW" Source="FF191919" />
       </Color>
       <Color Name="TitleBarActiveText">
-        <Background Type="CT_RAW" Source="FF8B888F" />
+        <Background Type="CT_RAW" Source="FFF7F1FF" />
       </Color>
       <Color Name="TitleBarInactiveText">
         <Background Type="CT_RAW" Source="FF8B888F" />
       </Color>
       <Color Name="ToolWindowButtonActiveGlyph">
-        <Background Type="CT_RAW" Source="FF8B888F" />
+        <Background Type="CT_RAW" Source="FFF7F1FF" />
       </Color>
-      <Color Name="ToolWindowButtonInActiveGlyph">
-        <Background Type="CT_RAW" Source="FF8B888F" />
+      <Color Name="ToolWindowButtonInactiveGlyph">
+        <Background Type="CT_RAW" Source="FFF7F1FF" />
       </Color>
       <Color Name="StatusBarBuilding">
         <Background Type="CT_RAW" Source="FF221A26" />
