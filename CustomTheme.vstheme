@@ -2141,8 +2141,8 @@
         <Foreground Type="CT_RAW" Source="FFFCE566" />
       </Color>
       <Color Name="HyperlinkDisabled">
-        <Background Type="CT_RAW" Source="FFFCE566" />
-        <Foreground Type="CT_RAW" Source="FFFCE566" />
+        <Background Type="CT_RAW" Source="FF8B888F" />
+        <Foreground Type="CT_RAW" Source="FF8B888F" />
       </Color>
       <Color Name="HyperlinkHover">
         <Background Type="CT_RAW" Source="FFFCE566" />
@@ -2154,50 +2154,50 @@
       </Color>
       <Color Name="Caption">
         <Background Type="CT_RAW" Source="FF191919" />
-        <Foreground Type="CT_RAW" Source="FF8B888F" />
+        <Foreground Type="CT_RAW" Source="FFF7F1FF" />
       </Color>
       <Color Name="Container">
-        <Foreground Type="CT_RAW" Source="FF8B888F" />
+        <Foreground Type="CT_RAW" Source="FFF7F1FF" />
       </Color>
       <Color Name="GridHeadingHoverText">
-        <Background Type="CT_RAW" Source="FF8B888F" />
+        <Background Type="CT_RAW" Source="FFF7F1FF" />
       </Color>
       <Color Name="HeaderText">
-        <Background Type="CT_RAW" Source="FF8B888F" />
+        <Background Type="CT_RAW" Source="FFF7F1FF" />
       </Color>
       <Color Name="Page">
         <Background Type="CT_RAW" Source="FF191919" />
-        <Foreground Type="CT_RAW" Source="FF8B888F" />
+        <Foreground Type="CT_RAW" Source="FFF7F1FF" />
       </Color>
       <Color Name="StatusBannerError">
-        <Foreground Type="CT_RAW" Source="FF8B888F" />
+        <Foreground Type="CT_RAW" Source="FFF7F1FF" />
       </Color>
       <Color Name="StatusBannerInfo">
-        <Foreground Type="CT_RAW" Source="FF8B888F" />
+        <Foreground Type="CT_RAW" Source="FFF7F1FF" />
       </Color>
       <Color Name="StatusBannerProgress">
-        <Foreground Type="CT_RAW" Source="FF8B888F" />
+        <Foreground Type="CT_RAW" Source="FFF7F1FF" />
       </Color>
       <Color Name="StatusBannerSuccess">
-        <Foreground Type="CT_RAW" Source="FF8B888F" />
+        <Foreground Type="CT_RAW" Source="FFF7F1FF" />
       </Color>
       <Color Name="TileViewText">
-        <Background Type="CT_RAW" Source="FF8B888F" />
+        <Background Type="CT_RAW" Source="FFF7F1FF" />
       </Color>
       <Color Name="TileViewTextFocused">
-        <Background Type="CT_RAW" Source="FF8B888F" />
+        <Background Type="CT_RAW" Source="FFF7F1FF" />
       </Color>
       <Color Name="TileViewTextHover">
-        <Background Type="CT_RAW" Source="FF8B888F" />
+        <Background Type="CT_RAW" Source="FFF7F1FF" />
       </Color>
       <Color Name="TileViewTextPressed">
-        <Background Type="CT_RAW" Source="FF8B888F" />
+        <Background Type="CT_RAW" Source="FFF7F1FF" />
       </Color>
       <Color Name="TileViewTextSelected">
-        <Background Type="CT_RAW" Source="FF8B888F" />
+        <Background Type="CT_RAW" Source="FFF7F1FF" />
       </Color>
       <Color Name="TileViewTextUnfocused">
-        <Background Type="CT_RAW" Source="FF8B888F" />
+        <Background Type="CT_RAW" Source="FFF7F1FF" />
       </Color>
       <Color Name="ListItemText">
         <Background Type="CT_RAW" Source="FFF7F1FF" />
