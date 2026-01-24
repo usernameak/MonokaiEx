@@ -2448,10 +2448,10 @@
         <Foreground Type="CT_RAW" Source="FF8B888F" />
       </Color>
       <Color Name="PanelHyperlinkInsideSelection">
-        <Foreground Type="CT_RAW" Source="FF8B888F" />
+        <Foreground Type="CT_RAW" Source="FFFCE566" />
       </Color>
       <Color Name="PanelHyperlinkInsideSelectionActive">
-        <Foreground Type="CT_RAW" Source="FF8B888F" />
+        <Foreground Type="CT_RAW" Source="FFFCE566" />
       </Color>
       <Color Name="StartPageTextDate">
         <Background Type="CT_RAW" Source="FF8B888F" />
@@ -5739,8 +5739,13 @@
       </Color>
     </Category>
     <Category Name="VersionControl" GUID="{6be84f44-74e4-4e5f-aee9-1b930f431375}">
-      <Color Name="AnnotateRegionSelected">
+      <Color Name="AnnotateRegion">
         <Background Type="CT_RAW" Source="FF191919" />
+        <Foreground Type="CT_RAW" Source="FFF7F1FF" />
+      </Color>
+      <Color Name="AnnotateRegionSelected">
+        <Background Type="CT_RAW" Source="FF424242" />
+        <Foreground Type="CT_RAW" Source="FFFCE566" />
       </Color>
     </Category>
     <Category Name="WorkItemEditor" GUID="{2138d120-456d-425e-80b5-88d2401fca23}">
